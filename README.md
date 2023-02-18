@@ -1,7 +1,7 @@
 <h3 align="center">Oh, hi  👋</h3>
-
+<br/>
 <p align="center">You have visited the page of the frontend developer who work with the following langs</p>
-
+<br/>
 <div align="center">
     <a href="https://www.javascript.com/" target="_blank">
         <img src="./images/javascript.png" width="50" height="50" alt="Javascript" title="Javscript" />
@@ -11,9 +11,9 @@
         <img src="./images/typescript.png" width="50" height="50" alt="Typescript" title="Typescript"/>
     </a>
 </div>
-
+<br/>
 <p align="center">at job uses a lot of technologies and libraries:</p>
-
+<br/>
 <div align="center">
     <a href="https://nextjs.org/" target="_blank">
         <img src="./images/next.svg" width="50" height="50" alt="Next.js" title="Next.js"/>
@@ -67,9 +67,9 @@
         <img src="./images/docker.png" width="50" height="50" alt="Docker" title="Docker"/>
     </a>
 </div>
-
+<br/>
 <p align="center">some time ago at previous job even worked with backend:</p>
-
+<br/>
 <div align="center">
     <a href="https://nestjs.com/" target="_blank">
         <img src="./images/nest.svg" width="50" height="50"  alt="Nest" title="Nest"/>
@@ -87,9 +87,9 @@
         <img src="./images/postgres.png" width="50" height="50"  alt="Postgresql" title="Postgresql"/>
     </a>
 </div>
-
+<br/>
 <p align="center">of course sometime the soul asks for some new things and was interesting to try:</p>
-
+<br/>
 <div align="center">
     <a href="https://angular.io/" target="_blank">
         <img src="./images/angular.svg" width="50" height="50"  alt="Angular" title="Angular"/>
@@ -113,7 +113,7 @@
 </div>
 <br/>
 <p align="center">And some statistics about languages and wakatime since I installed it in webstorm</p>
-
+<br/>
 <div align="center">
   <div>
     <a href="https://stackoverflow.com/users/19250187/rycha" target="_blank">
