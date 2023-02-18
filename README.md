@@ -26,7 +26,6 @@
     <a href="https://effector.dev/" target="_blank">
         <img src="./images/effector.png" width="50" height="50" alt="Effector" title="Effector"/>
     </a>
-    <br />
     <a href="https://redux.js.org/" target="_blank">
         <img src="./images/redux.svg" width="50" height="50" alt="Redux" title="Redux"/>
     </a>
@@ -54,7 +53,6 @@
     <a href="https://nodejs.org/" target="_blank">
         <img src="./images/node.png" width="50" height="50" alt="Node.js" title="Node.js"/>
     </a>
-    <br />
     <a href="https://webpack.js.org/" target="_blank">
         <img src="./images/webpack.png" width="50" height="50" alt="Webpack" title="Webpack"/>
     </a>
