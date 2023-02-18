@@ -112,6 +112,8 @@
     </a>
 </div>
 <br/>
+<p align="center">And some statistics about languages and wakatime since I installed it in webstorm</p>
+
 <div align="center">
   <div>
     <a href="https://stackoverflow.com/users/19250187/rycha" target="_blank">
@@ -141,5 +143,4 @@
   </div>
 </div>
 <br/>
-<p align="center">Quite recently I became interested in answers to questions on the stackoverflow and below is my humble badge. And some other statistic bages</p>
 
