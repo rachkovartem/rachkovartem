@@ -68,7 +68,7 @@
     </a>
 </div>
 
-<p align="center">some time ago at previous job event worked with backend:</p>
+<p align="center">some time ago at previous job even worked with backend:</p>
 
 <div align="center">
     <a href="https://nestjs.com/" target="_blank">
