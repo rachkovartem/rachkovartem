@@ -111,24 +111,35 @@
         <img src="./images/vuetify.svg" width="50" height="50"  alt="Vuetifyjs" title="Vuetifyjs"/>
     </a>
 </div>
-
-<table align="center">
-    <tbody>
-        <tr>
-            <td>
-                <div align="center">
-                 <a href="https://stackoverflow.com/users/19250187/rycha"><img src="https://stackoverflow.com/users/flair/19250187.png?theme=dark" width="208" height="58" alt="profile for rycha at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for rycha at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
-                
-                
-   [![wakatime](https://wakatime.com/badge/user/884334ef-b1a5-4aee-a8fa-d4ecfa039618.svg)](https://wakatime.com/@884334ef-b1a5-4aee-a8fa-d4ecfa039618)
-                </div>
-            </td>
-            <td>
-                ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachkovartem&layout=compact&theme=gruvbox)
-            </td>
-        </tr>
-    </tbody>
-</table>
-
+<br/>
+<div align="center">
+  <div>
+    <a href="https://stackoverflow.com/users/19250187/rycha">
+      <img
+        src="https://stackoverflow.com/users/flair/19250187.png?theme=dark"
+        width="208"
+        height="58"
+        alt="profile for rycha at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
+        title="profile for rycha at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
+    /></a>
+  </div>
+  <br />
+  <div>
+      <a>
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachkovartem&layout=compact&theme=gruvbox"
+    />
+  </div>
+  </a>
+  <br />
+  <div>
+    <a href="https://wakatime.com/@884334ef-b1a5-4aee-a8fa-d4ecfa039618">
+      <img
+        src="https://wakatime.com/badge/user/884334ef-b1a5-4aee-a8fa-d4ecfa039618.svg"
+      />
+    </a>
+  </div>
+</div>
+<br/>
 <p align="center">Quite recently I became interested in answers to questions on the stackoverflow and below is my humble badge. And some other statistic bages</p>
 
