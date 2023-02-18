@@ -112,7 +112,7 @@
     </a>
 </div>
 <br/>
-<p align="center">And some statistics about languages and wakatime since I installed it in webstorm</p>
+<p align="center">Quite recently I became interested in answers to questions on the stackoverflow and below is my humble badge. And some statistics about languages and wakatime since I installed it in webstorm</p>
 <br/>
 <div align="center">
   <div>
