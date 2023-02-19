@@ -141,5 +141,5 @@
   </div>
 </div>
 <br/>
-<p align="center">Well, summing up, bellow you can see some reps which I write at free time for try something new or when I need something that I didt have with existed popular services (i mean project with feature to save films to watch :slightly_smiling_face:)</p>
+<p align="center">Well, summing up, bellow you can see some reps that I work on in my free time (there is not much of it) for try something new or when I need something that I didt have with existed popular services (i mean project with feature to save films to watch :slightly_smiling_face:)</p>
 
