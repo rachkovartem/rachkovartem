@@ -110,7 +110,7 @@
     </a>
 </div>
 <br/>
-<p align="center">Quite recently I became interested in answers to questions on the stackoverflow and below is my humble badge. And some statistics about languages and wakatime since I installed it in webstorm</p>
+<p align="center">Quite recently I became interested in answers to questions on the stackoverflow and below is my humble badge.</p>
 <br/>
 <div align="center">
   <div>
@@ -124,6 +124,8 @@
     /></a>
   </div>
   <br />
+  <p>And some statistics about languages</p>
+  <br/>
   <div>
       <a href="https://github.com/rachkovartem?tab=repositories" target="_blank">
         <img
@@ -131,14 +133,6 @@
     />
   </div>
   </a>
-  <br />
-  <div>
-    <a href="https://wakatime.com/@884334ef-b1a5-4aee-a8fa-d4ecfa039618"  target="_blank">
-      <img
-        src="https://wakatime.com/badge/user/884334ef-b1a5-4aee-a8fa-d4ecfa039618.svg"
-      />
-    </a>
-  </div>
 </div>
 <br/>
 <p align="center">Well, summing up, bellow you can see some reps that I work on in my free time (there is not much of it) for try something new or when I need something that I didt have with existed popular services (i mean project with feature to save films to watch :slightly_smiling_face:)</p>
