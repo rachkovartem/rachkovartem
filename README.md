@@ -1,7 +1,5 @@
-<h3 align="center">Oh, hi  👋</h3>
-<br/>
-<p align="center">You have visited the page of the frontend developer who work with the following langs</p>
-<br/>
+<h3 align="center">Hi  👋</h3>
+<p align="center">I’m a frontend developer with experience in the following technologies:</p>
 <div align="center">
     <a href="https://www.javascript.com/" target="_blank">
         <img src="./images/javascript.png" width="50" height="50" alt="Javascript" title="Javscript" />
@@ -11,9 +9,6 @@
         <img src="./images/typescript.png" width="50" height="50" alt="Typescript" title="Typescript"/>
     </a>
 </div>
-<br/>
-<p align="center">at job uses a lot of technologies and libraries:</p>
-<br/>
 <div align="center">
     <a href="https://nextjs.org/" target="_blank">
         <img src="./images/next.svg" width="50" height="50" alt="Next.js" title="Next.js"/>
@@ -21,6 +16,9 @@
     &nbsp;
     <a href="https://reactjs.org/" target="_blank">
         <img src="./images/react.svg" width="50" height="50"  alt="React" title="React"/>
+    </a>
+    <a href="https://www.electronjs.org/" target="_blank">
+        <img src="./images/electron.svg" width="50" height="50"  alt="React" title="React"/>
     </a>
     &nbsp;
     <a href="https://effector.dev/" target="_blank">
@@ -65,9 +63,7 @@
         <img src="./images/docker.png" width="50" height="50" alt="Docker" title="Docker"/>
     </a>
 </div>
-<br/>
-<p align="center">some time ago at previous job even worked with backend:</p>
-<br/>
+<p align="center">Previous Experience:</p>
 <div align="center">
     <a href="https://nestjs.com/" target="_blank">
         <img src="./images/nest.svg" width="50" height="50"  alt="Nest" title="Nest"/>
@@ -85,9 +81,7 @@
         <img src="./images/postgres.png" width="50" height="50"  alt="Postgresql" title="Postgresql"/>
     </a>
 </div>
-<br/>
-<p align="center">of course sometime the soul asks for some new things and was interesting to try:</p>
-<br/>
+<p align="center">I’m always curious and open to learning new things, so I've also explored:</p>
 <div align="center">
     <a href="https://angular.io/" target="_blank">
         <img src="./images/angular.svg" width="50" height="50"  alt="Angular" title="Angular"/>
@@ -110,8 +104,6 @@
     </a>
 </div>
 <br/>
-<p align="center">Quite recently I became interested in answers to questions on the stackoverflow and below is my humble badge.</p>
-<br/>
 <div align="center">
   <div>
     <a href="https://stackoverflow.com/users/19250187/rycha" target="_blank">
@@ -123,17 +115,16 @@
         title="profile for rycha at Stack Overflow, Q&amp;A for professional and enthusiast programmers"
     /></a>
   </div>
-  <br />
-  <p>And some statistics about languages</p>
   <br/>
   <div>
       <a href="https://github.com/rachkovartem?tab=repositories" target="_blank">
         <img
           src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachkovartem&layout=compact&theme=gruvbox"
     />
-  </div>
   </a>
+  </div>
+<br/>
 </div>
 <br/>
-<p align="center">Well, summing up, bellow you can see some reps that I work on in my free time (there is not much of it) for try something new or when I need something that I didt have with existed popular services (i mean project with feature to save films to watch :slightly_smiling_face:)</p>
+
 
