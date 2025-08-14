@@ -1,5 +1,13 @@
 <h3 align="center">Hi  👋</h3>
-<p align="center">I’m a frontend developer with experience in the following technologies:</p>
+<p align="center">Senior Frontend Engineer with 5+ years building Web and Electron applications.
+Launched several greenfield projects and migrated large legacy codebases.</p>
+
+<p align="center">Worked both as a solo engineer in early product stages and within large teams of 10+ frontend developers.
+Led a team of four frontend developers as tech lead (mentoring, code review, CI/CD).
+Owned the end-to-end delivery process: discovery and requirements gathering, scoping and architecture, planning and estimation, implementation, testing and QA automation, performance work, CI/CD setup, release automation, monitoring and on-call support, and post-release iteration. Business-oriented, quick to ramp up on new tech, focused on performance, developer experience, and time to market.</p>
+
+<p align="center">Open to senior, tech lead, or team lead roles.</p>
+
 <div align="center">
     <a href="https://www.javascript.com/" target="_blank">
         <img src="./images/javascript.png" width="50" height="50" alt="Javascript" title="Javscript" />
